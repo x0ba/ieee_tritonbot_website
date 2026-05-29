@@ -14,7 +14,7 @@ const config: Config = {
   },
 
   url: 'https://ysh0305.github.io',
-  baseUrl: '/ieee_tritonbot_website/',
+  baseUrl: '/',
   trailingSlash: false,
 
   organizationName: 'ysh0305',
