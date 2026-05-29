@@ -24,6 +24,16 @@ npm run build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+## Docker
+
+Build and run with Docker Compose:
+
+```bash
+docker compose up --build
+```
+
+The site will be available at `http://localhost:3000`.
+
 ## Deployment
 
 This repo is configured to deploy automatically to GitHub Pages with GitHub Actions.
